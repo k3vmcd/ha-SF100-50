@@ -1,0 +1,1 @@
+"""Future Solutions SF100-50 Solar Controller Integration"""
