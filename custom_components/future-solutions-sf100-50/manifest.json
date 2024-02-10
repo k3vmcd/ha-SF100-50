@@ -4,7 +4,7 @@
     "codeowners": "@k3vmcd",
     "dependencies": ["bluetooth_adapters"],
     "documentation": ["https://github.com/k3vmcd/ha-SF100-50"],
-    "integration_type": "hub",
+    "integration_type": "device",
     "iot_class": "local_polling",
     "requirements": [""],
     "issue_tracker": "https://github.com/k3vmcd/ha-SF100-50/issues",
